@@ -33,3 +33,4 @@ C:\Users\Ivan\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0\refint\C
 C:\Users\Ivan\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.pdb
 C:\Users\Ivan\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.genruntimeconfig.cache
 C:\Users\Ivan\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0\ref\CoffeeMachine.dll
+C:\Users\Ivan\source\repos\CoffeeMachine\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.sourcelink.json
